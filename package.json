@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhongThanhNguyen099/blog_nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "phong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhongThanhNguyen099/blog_nodejs/issues"
+  },
+  "homepage": "https://github.com/PhongThanhNguyen099/blog_nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
